@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tile>
+  <visual>
+
+    <binding template="TileMedium">
+      ...
+    </binding>
+
+    <binding template="TileWide">
+      <text hint-style="subtitle">Jennifer Parker</text>
+      <text hint-style="captionSubtle">Photos from our trip</text>
+      <text hint-style="captionSubtle">Check out these awesome photos I took while in New Zealand!</text>
+    </binding>
+
+    <binding template="TileLarge">
+      ...
+    </binding>
+
+  </visual>
+</tile>
+

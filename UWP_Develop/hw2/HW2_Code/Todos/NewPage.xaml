@@ -1,0 +1,43 @@
+﻿<Page
+    x:Class="Todos.NewPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Todos"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="textBlock" Grid.Row="0" Text="Todos" Style="{StaticResource HeaderTextBlockStyle}"/>
+        
+        <Grid Grid.Row="1">
+            <ScrollViewer Opacity="0.8" Margin="10,0,10,10">
+                <ScrollViewer.Background>
+                    <ImageBrush ImageSource="Assets/130796-106.jpg"/>
+                </ScrollViewer.Background>
+                <StackPanel>
+                    <RelativePanel Width="350">
+                        <TextBlock Width="350"  Margin="0,12,0,0"/>
+                    </RelativePanel>
+                    <Image  x:Name ="ImageChange" Source="Assets/background.jpg" Width="358" Height="208" Stretch="UniformToFill"/>
+                    <RelativePanel Width="350">
+                        <AppBarButton x:Name="SelectPictureButton" Click ="AppBarButton" Icon="Pictures" Label="select" RelativePanel.AlignRightWithPanel="True" Height="65"/>
+                    </RelativePanel>
+                    <TextBox x:Name ="Title" Width="350" Header="Title" Margin="0,12,0,0"/>
+                    <TextBox x:Name ="Details" Width="350" Height="96" Margin="0,12,0,0" Header="Details" />
+                    <DatePicker x:Name ="DatePicker" Header="Due Date" HorizontalAlignment="Center" Width="350" Margin="0,12,0,0"/>
+                    <RelativePanel Width="350" Margin="0,24,0,0">
+                        <Button Content="Create" Click="Create_Click"/>
+                        <Button Content="Cancel" RelativePanel.AlignRightWithPanel="True" Click="Cancel_Click"/>
+                    </RelativePanel>
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Page>
