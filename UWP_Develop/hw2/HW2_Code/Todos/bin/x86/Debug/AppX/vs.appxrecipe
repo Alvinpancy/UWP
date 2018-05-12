@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>b6d9babe-c1a9-4fc8-bf03-a5302d575395</PackageIdentityName>
     <PackageIdentityPublisher>CN=admini</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\admini\Desktop\Todos\Todos\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\admini\Desktop\Todos\Todos\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-07T18:08:38.978</Modified>
+      <Modified>2017-03-08T05:20:58.852</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\bin\x86\Debug\Todos.exe">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\bin\x86\Debug\Todos.exe">
       <PackagePath>entrypoint\Todos.exe</PackagePath>
-      <Modified>2017-03-07T18:08:36.337</Modified>
+      <Modified>2017-03-08T05:20:55.055</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admini\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -460,66 +460,66 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-22T15:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\1240X600p.png">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\1240X600p.png">
       <PackagePath>Assets\1240X600p.png</PackagePath>
       <Modified>2017-03-07T15:35:53.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\ironman.png">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\ironman.png">
       <PackagePath>Assets\ironman.png</PackagePath>
       <Modified>2017-03-07T15:23:41.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-03-07T15:23:41.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-03-07T15:35:53.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\130796-106.jpg">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\130796-106.jpg">
       <PackagePath>Assets\130796-106.jpg</PackagePath>
       <Modified>2017-03-07T14:33:34.243</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Assets\background.jpg">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Assets\background.jpg">
       <PackagePath>Assets\background.jpg</PackagePath>
       <Modified>2017-03-07T14:24:55.495</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-03-07T05:00:01.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\bin\x86\Debug\Todos.xr.xml">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\bin\x86\Debug\Todos.xr.xml">
       <PackagePath>Todos.xr.xml</PackagePath>
       <Modified>2017-03-07T15:07:55.476</Modified>
     </AppxPackagedFile>
@@ -527,13 +527,13 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-03-05T15:10:39.639</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2017-03-07T18:08:37.619</Modified>
+      <Modified>2017-03-08T05:20:57.372</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\admini\Desktop\Todos\Todos\bin\x86\Debug\Core\Todos.exe">
+    <AppxPackagedFile Include="C:\Users\admini\Desktop\大二下\（作）现代操作与系统开发\hw2\15331248_潘承远_hw2\HW2_Code\Todos\bin\x86\Debug\Core\Todos.exe">
       <PackagePath>Todos.exe</PackagePath>
-      <Modified>2017-03-07T18:08:38.963</Modified>
+      <Modified>2017-03-08T05:20:58.842</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
